@@ -1,1 +1,1 @@
-# stanford-cars-classifier
+# Stanford Cars Classifier
